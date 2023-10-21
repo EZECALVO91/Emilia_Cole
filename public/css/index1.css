@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@400;500;600;700&family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+.body {
+    height: max-content;
+    font-family: 'AR One Sans', sans-serif;
+    background-image: url("/img/emilia-home.jpg");
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: right;
+}
+.nav1 ul{
+    margin-left: -20px;
+    font-size: 11px;
+    margin-top: 30px;
+}
+.nav1 ul li a{
+    text-decoration: none;
+    color: black;
+}
+.nav2 ul{
+    margin-left: -20px;
+    font-size: 15px;
+    margin-top: 15px;
+}
+.nav2 ul li {
+    display: inline;
+}
+.fa-brands{
+    margin: 2px;
+}
+.nombre{
+    font-size: 25px;
+    margin-left: 15px;
+    margin-top: 110px;
+    padding-top: 30px;
+    margin-bottom:170px;
+    font-weight: lighter;
+}
+.cd{
+    background-color: rgba(255, 255, 255, 0.3);
+    font-size: 60px;
+
+}

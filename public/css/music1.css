@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@400;500;600;700&family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+body{
+    font-family: 'AR One Sans', sans-serif;
+}
+header{
+    background-image: url("/img/emilia-music-top.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 140px;
+}
+.pestañas{
+    padding-top: 20px;
+}
+.pestañas ul{
+    background-color: rgba(255, 255, 255, 0.3);
+    text-align: right;
+    padding: 7px;
+}
+.pestañas ul li{
+    display: inline;
+}
+.pestañas ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}
+.redes ul li{
+    display: inline;
+}
+.redes ul{
+    font-size: 15px;
+    text-align: right;
+}
+.fa-brands{
+    margin: 2px;
+}
+h1{
+    font-size: 50px;
+}
+.directs{
+    font-weight: lighter;
+}
+.links ul li a{
+    text-decoration: none;
+    color: rgba(89, 89, 89, 0.637);
+    font-size: 12px;
+    font-weight: bold;
+}
+.img-disc{
+    height: 290px;
+    width: 650px;
+}
+.songs-disc ol li a{
+    text-decoration: none;
+    color: black;
+}
+.gotop{
+    text-decoration: none;
+    color: rgba(50, 47, 47, 0.644);
+    font-weight: bold;
+}

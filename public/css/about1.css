@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@400;500;600;700&family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+body{
+    font-family: 'AR One Sans', sans-serif;
+    background-image: url("/img/emilia-about.jpg");
+    background-repeat: no-repeat;
+    background-position: 270px;
+}
+.pestañas{
+    margin-top: 50px;
+}
+.pestañas ul{
+    background-color: rgba(255, 255, 255, 0.4);
+    text-align: right;
+    padding: 10px;
+}
+.pestañas ul li{
+    display: inline;
+}
+.pestañas ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}
+.redes ul li{
+    display: inline;
+}
+.redes ul{
+    font-size: 15px;
+    text-align: right;
+}
+.fa-brands{
+    margin: 2px;
+}
+.emilia{
+    font-size: 50px;
+}
+.music1{
+    margin-left: 20px;
+}
+.music1 h4{
+    color: rgb(6, 156, 113);
+    font-size: 24px;
+    font-weight: lighter;
+}
+.music1 h6{
+    color: rgb(6, 156, 113);
+    font-size: 12px;
+    font-weight: lighter;
+}
+.music2{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.music2 h4{
+    color: rgb(6, 156, 113);
+    font-size: 24px;
+    font-weight: lighter;
+}
+.music2 h6{
+    color: rgb(6, 156, 113);
+    font-size: 12px;
+    font-weight: lighter;
+}

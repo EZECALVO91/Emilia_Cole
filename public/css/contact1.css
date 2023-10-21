@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@400;500;600;700&family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+body{
+    font-family: 'AR One Sans', sans-serif;
+}
+.pestañas{
+    margin-top: 50px;
+}
+.pestañas ul{
+    background-color: rgba(255, 255, 255, 0.3);
+    text-align: right;
+}
+.pestañas ul li{
+    display: inline;
+}
+.pestañas ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}
+.redes ul li{
+    display: inline;
+}
+.redes ul{
+    font-size: 15px;
+    text-align: right;
+}
+.fa-brands{
+    margin: 2px;
+}
+.maps{
+    display: inline;
+    height: 250px;
+    width: 100% ;
+}
+.contact h1 {
+    font-size: 40px;
+}
+.contact h4{
+    font-weight: bold;
+    font-size: 15px;
+}
+.datos{
+    color: rgb(6, 156, 113);
+    font-size: 20px;
+    font-weight: lighter;
+}
+.info-contact{
+    font-size: 25px;
+}
+.info {
+    font-weight: bold;
+}
+.info a{
+    text-decoration: none;
+    color: rgba(64, 65, 65, 0.574);
+}
